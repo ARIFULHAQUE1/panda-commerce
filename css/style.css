@@ -1,0 +1,23 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.black-bag{
+    background-color: #da70d6;
+}
+.submit{
+    color: white;
+    background-color: #ff2f81;
+    border: none;
+    padding: 2px;
+    border-radius: 5px;
+    width:100px;
+    height: 40px;
+}
+.buy-button{
+color: white;
+font-weight: 600;
+padding: 9px 15px;
+}
+.categories img{
+width: 100px;
+}
